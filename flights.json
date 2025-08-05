@@ -1,0 +1,27 @@
+[
+  {
+    "from": "SVX",
+    "to": "DYU",
+    "airline": "Turkish Airlines",
+    "flight_number": "TK101",
+    "aircraft": "Boeing 737",
+    "stopovers": "1 stop in Istanbul",
+    "price": "$350",
+    "agencies": [
+      { "name": "AgencyA" },
+      { "name": "AgencyB" }
+    ]
+  },
+  {
+    "from": "DME",
+    "to": "DXB",
+    "airline": "Emirates",
+    "flight_number": "EK202",
+    "aircraft": "Airbus A380",
+    "stopovers": "Direct",
+    "price": "$520",
+    "agencies": [
+      { "name": "AgencyC" }
+    ]
+  }
+]
